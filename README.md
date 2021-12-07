@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple steps:
       ```ruby
       rails db:seed
       ```
-5. Run server
+5. Run server(make sure you are running this in localhost:3000)
       ```ruby
       rails server
       ```
