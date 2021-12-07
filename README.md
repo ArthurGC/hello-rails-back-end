@@ -2,6 +2,9 @@
 # Hello Rails Back End - Ruby on Rails
 
 Hello Rails Back End is a api to show random greetings.
+
+## Hello React Front End connection
+- [React Project Link](https://github.com/ArthurGC/Hello-React-front-end)
 ## :hammer: Preview
 
 - Under construction
