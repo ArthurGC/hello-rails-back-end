@@ -2,6 +2,9 @@
 # Hello Rails Back End - Ruby on Rails
 
 Hello Rails Back End is a api to show random greetings.
+
+## Hello React Front End connection
+- [React Project Link](https://github.com/ArthurGC/Hello-React-front-end)
 ## :hammer: Preview
 
 - Under construction
@@ -37,7 +40,7 @@ To get a local copy up and running follow these simple steps:
       ```ruby
       rails db:seed
       ```
-5. Run server
+5. Run server(make sure you are running this in localhost:3000)
       ```ruby
       rails server
       ```
